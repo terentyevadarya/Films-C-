@@ -1,0 +1,1 @@
+<Film xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Count>1</Count><DirectorID>9f8ca7f0-ebd5-46a7-9797-d281cd0c2b74</DirectorID><ID>2e6a0814-0239-4c13-aada-8d5295b0e2d4</ID><Name>The Elephant Man</Name><Year>2014</Year></Film>

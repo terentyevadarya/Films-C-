@@ -1,0 +1,1 @@
+<Genre xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Description/><ID>ec1d1eb7-8909-45d7-949a-9629d493c07a</ID><Name>music</Name></Genre>

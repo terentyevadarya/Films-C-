@@ -1,0 +1,1 @@
+<Genre xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Description/><ID>485b22a8-6eb0-48ff-95bc-9819a3b969c6</ID><Name>Musical</Name></Genre>

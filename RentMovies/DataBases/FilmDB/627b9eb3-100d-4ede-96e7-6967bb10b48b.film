@@ -1,0 +1,1 @@
+<Film xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Count>1</Count><DirectorID>04e6f9a8-4c08-43eb-b041-639bf52db820</DirectorID><ID>627b9eb3-100d-4ede-96e7-6967bb10b48b</ID><Name>Fight Club</Name><Year>2014</Year></Film>

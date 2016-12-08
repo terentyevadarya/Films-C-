@@ -1,0 +1,1 @@
+<Film xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Count>1</Count><DirectorID>7a06c7b3-e45a-4e68-a857-6b8eeb528ccc</DirectorID><ID>e6a094c8-cd23-41d7-b88b-c92ea00a943f</ID><Name>Amadeus</Name><Year>2014</Year></Film>

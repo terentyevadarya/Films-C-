@@ -1,0 +1,1 @@
+<Film xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Count>1</Count><DirectorID>45560b80-fc75-453a-a6be-03a729982822</DirectorID><ID>21c3c8ab-3198-4842-9fcf-045f763db5ae</ID><Name>Terminator 2: Judgment Day</Name><Year>2014</Year></Film>

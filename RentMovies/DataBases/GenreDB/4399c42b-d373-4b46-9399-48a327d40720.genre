@@ -1,0 +1,1 @@
+<Genre xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Description/><ID>4399c42b-d373-4b46-9399-48a327d40720</ID><Name>comedy</Name></Genre>

@@ -1,0 +1,1 @@
+<Genre xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Description/><ID>c3164cc9-5e83-41ca-8784-5976b9f8e4db</ID><Name>Fantasy</Name></Genre>

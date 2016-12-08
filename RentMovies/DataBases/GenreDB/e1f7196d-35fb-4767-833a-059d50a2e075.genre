@@ -1,0 +1,1 @@
+<Genre xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Description/><ID>e1f7196d-35fb-4767-833a-059d50a2e075</ID><Name>romance</Name></Genre>

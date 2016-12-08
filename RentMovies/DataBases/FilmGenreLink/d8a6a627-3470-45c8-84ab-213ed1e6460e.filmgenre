@@ -1,0 +1,1 @@
+<FilmGenre xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><FilmID>00000000-0000-0000-0000-000000000000</FilmID><GenreID>00000000-0000-0000-0000-000000000000</GenreID><LinkID>d8a6a627-3470-45c8-84ab-213ed1e6460e</LinkID></FilmGenre>

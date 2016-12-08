@@ -1,0 +1,1 @@
+<Genre xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Description/><ID>46c4ec80-a816-49d7-a646-c6a0ed019aea</ID><Name>thriller</Name></Genre>

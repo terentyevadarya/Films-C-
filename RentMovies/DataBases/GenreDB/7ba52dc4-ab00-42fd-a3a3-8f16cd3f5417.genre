@@ -1,0 +1,1 @@
+<Genre xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Description/><ID>7ba52dc4-ab00-42fd-a3a3-8f16cd3f5417</ID><Name>Adventure</Name></Genre>

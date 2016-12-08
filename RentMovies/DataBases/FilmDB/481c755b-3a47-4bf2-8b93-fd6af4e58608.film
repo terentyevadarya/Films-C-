@@ -1,0 +1,1 @@
+<Film xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Count>1</Count><DirectorID>edf0d95a-aa67-4a87-ac89-7c177c625610</DirectorID><ID>481c755b-3a47-4bf2-8b93-fd6af4e58608</ID><Name>The Dark Knight</Name><Year>2014</Year></Film>

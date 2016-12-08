@@ -1,0 +1,1 @@
+<Film xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Count>1</Count><DirectorID>eac043cc-e08a-424e-b0d2-39ab06d81069</DirectorID><ID>eac24a3e-6622-4502-8be8-3edafae3dff3</ID><Name>The Hobbit: The Desolation of Smaug</Name><Year>2014</Year></Film>

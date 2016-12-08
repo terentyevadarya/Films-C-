@@ -1,0 +1,1 @@
+<Film xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Count>1</Count><DirectorID>eac043cc-e08a-424e-b0d2-39ab06d81069</DirectorID><ID>793dff0d-419b-421e-87de-2421c91f6275</ID><Name>The Lord of the Rings: The Return of the King</Name><Year>2014</Year></Film>

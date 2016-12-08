@@ -1,0 +1,1 @@
+<Film xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Count>1</Count><DirectorID>5782fb15-725d-4743-906f-143fad848260</DirectorID><ID>eb19cd81-19fc-44e8-8df3-f0e3ee362719</ID><Name>Shrek</Name><Year>2014</Year></Film>

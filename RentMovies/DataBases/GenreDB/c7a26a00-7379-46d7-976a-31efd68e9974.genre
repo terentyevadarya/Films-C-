@@ -1,0 +1,1 @@
+<Genre xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Description/><ID>c7a26a00-7379-46d7-976a-31efd68e9974</ID><Name>Horror</Name></Genre>

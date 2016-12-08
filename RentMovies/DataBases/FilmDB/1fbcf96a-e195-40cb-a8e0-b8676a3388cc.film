@@ -1,0 +1,1 @@
+<Film xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Count>1</Count><DirectorID>806f8bc6-5e29-44c9-afe4-d62168294479</DirectorID><ID>1fbcf96a-e195-40cb-a8e0-b8676a3388cc</ID><Name>Edward Scissorhands</Name><Year>2014</Year></Film>

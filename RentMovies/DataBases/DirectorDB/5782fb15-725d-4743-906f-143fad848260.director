@@ -1,0 +1,1 @@
+<Director xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Country>USA</Country><FullName>Steven Spielberg</FullName><ID>5782fb15-725d-4743-906f-143fad848260</ID></Director>

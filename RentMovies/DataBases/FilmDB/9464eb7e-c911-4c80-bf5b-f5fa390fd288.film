@@ -1,0 +1,1 @@
+<Film xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Count>1</Count><DirectorID>9533ff0e-cf8b-41ac-94c0-7271fb183f75</DirectorID><ID>9464eb7e-c911-4c80-bf5b-f5fa390fd288</ID><Name>9 rota</Name><Year>2014</Year></Film>

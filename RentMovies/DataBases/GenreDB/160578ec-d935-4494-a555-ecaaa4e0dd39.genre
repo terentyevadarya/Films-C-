@@ -1,0 +1,1 @@
+<Genre xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Description/><ID>160578ec-d935-4494-a555-ecaaa4e0dd39</ID><Name>drama</Name></Genre>

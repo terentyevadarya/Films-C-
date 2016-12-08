@@ -1,0 +1,1 @@
+<Film xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Count>1</Count><DirectorID>edf0d95a-aa67-4a87-ac89-7c177c625610</DirectorID><ID>1f2aaf1f-5649-4893-bf16-8c1f91903048</ID><Name>Inception</Name><Year>2014</Year></Film>

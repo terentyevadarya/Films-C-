@@ -1,0 +1,1 @@
+<Film xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Count>1</Count><DirectorID>aa637af9-169e-4f8d-bd5d-5d219bd871d8</DirectorID><ID>37683501-6ee6-4542-a013-b3a7aba4f613</ID><Name>The A-Team</Name><Year>2014</Year></Film>

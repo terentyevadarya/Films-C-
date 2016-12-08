@@ -1,0 +1,1 @@
+<Film xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Count>1</Count><DirectorID>9f8ca7f0-ebd5-46a7-9797-d281cd0c2b74</DirectorID><ID>ead814d9-badd-4d3f-bef2-d0d7339143bc</ID><Name>Dune</Name><Year>2014</Year></Film>

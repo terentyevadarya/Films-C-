@@ -1,0 +1,1 @@
+<Director xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Country>New Zealand</Country><FullName>Peter Jackson</FullName><ID>eac043cc-e08a-424e-b0d2-39ab06d81069</ID></Director>

@@ -1,0 +1,1 @@
+<Film xmlns="http://schemas.datacontract.org/2004/07/RentMovies.Model.FilmClasses" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Count>1</Count><DirectorID>4f313835-5d06-4a26-9394-8ae351c3f47f</DirectorID><ID>0b267351-f99a-498c-a4d1-da44cb5c582f</ID><Name>The Departed</Name><Year>2014</Year></Film>
